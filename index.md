@@ -1,25 +1,30 @@
  # IARA GONÇALVES DOS SANTOS
 
-+55 98937 7661 | iara.santos@ufv.br | linkedin.com/in/iara-gonçalves-dos-santos-631931118
++55 98937 7661 | iara.santos@ufv.br | <linkedin.com/in/iara-gonçalves-dos-santos-631931118>
  
 **EDUCATION**
-*Ph.D. Candidate in Genetics and Breeding*                                                                                       (Deadline: July 2021)                           
+*Ph.D. Candidate in Genetics and Breeding*                                                                                       (Deadline: July 2021)
+
 Federal University of Viçosa – Viçosa, MG, Brazil | Adviser: Dr. Cosme Damião Cruz
 Thesis: Genetic Diversity and Persistence of Alfalfa Accessions
 
 *Research Scholar*                                                                                                               2019 - 2020
+
 Iowa State University – Ames, IA, United States of America | Adviser: Dr. Thomas Lübberstedt                                    
 Project: Spontaneous haploid genome doubling in maize
 
 *M.s. in Genetics and Plant Breeding*                                                                                              2016 - 2017
+
 Federal University of Viçosa – Viçosa, MG, Brazil | Adviser: Dr. Cosme Damião Cruz
 Dissertation: Complex traits selection in alfalfa using computational intelligence
 
 *B.Sc. in Agronomy*                                                                                                                2011 - 2016
+
 Federal University of Viçosa – Viçosa, MG, Brazil | Adviser: Dr. Rodrigo Oliveira de Lima
 Conclusion work: Phenotypic characterization of popcorn inbred lines for drought tolerance
 
 **PROFESSIONAL EXPERIENCE** 
+
 *Intern at the Doubled Haploid Facility, Iowa State University*                                                                    2019 - 2020
 Greenhouse planting of haploid seeds, chromosome duplication by colchicine injection, transplanting, assistance in haploid fields (weed control, elimination of diploid individuals, pollination). Planting and collecting plant material for genotyping, backcrosses and reciprocal crossings. Evaluation of inducer assays. Evaluation of spontaneous haploid genome doubling (SHGD) assays. Harvesting, shelling and identification of haploid seeds. Analysis of SHGD data: QTL mapping, genetic diversity, haplotype analysis, GWAS.
 
@@ -49,7 +54,8 @@ Assistance in seed preparation for planting, planning and conduction of wheat-br
 - Honorable mention at “Roland Vencovsky Award” on 4th International Meeting on Plant Breeding (2020)
 
 **SKILLS**
-Biometric analyses of phenotypic and molecular data – softwares GENES, Tassel, SAS, R, Beagle, Germline, Selegen. 
+
+Biometric analyses of phenotypic and molecular data – softwares GENES, Tassel, SAS, R, Beagle, Germline, Selegen.
 Experimental statistics – experimental designs, correlations, test of means. Mixed models/BLUP. 
 Biometry – G by E interaction, stability and adaptability, selection gains and indexes, diallel analyses, longitudinal data analysis. 
 Multivariate analyses – fator analysis, discriminant, principal components, and canonical variables. 
@@ -57,10 +63,12 @@ Genetic diversity – Diversity within and between populations, dissimilarities 
 Artificial intelligence – Artificial Neural Networks, Self-organizing maps. QTL mapping, GWAS and GWS.
 
 **ADDITIONAL INFORMATION**	
+
 Citizenship:    Brazilian
 Languages:     Portuguese: Native Speaker; English: Professional working
   
 **PROFESSIONAL REFERENCES**
+
 Cosme Damião Cruz      Master and Ph.D. advisor                   +55 31 3612 2407       cdcruz@ufv.br
 Thomas Lübberstedt     Advisor at Iowa State University            +1 515 294 5356       thomasl@iastate.edu 
 Ursula Frei            Co-advisor at Iowa State University         +1 515 294 2756       ufrei@iastate.edu
